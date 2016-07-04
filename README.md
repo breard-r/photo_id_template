@@ -18,6 +18,12 @@ HOWTO
 6. export the result.
 
 
+Download
+--------
+
+You can either clone the repository or download from the [release center](https://github.com/breard-r/photo_id_template/releases).
+
+
 References
 ----------
 
