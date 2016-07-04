@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="350" height="450">
+    <title>Photo ID pattern</title>
+    <desc>A photo ID pattern created bu Rodolphe BRÉARD. This work is licensed under a Creative Commons Attribution 4.0 International License.</desc>
+
+    <!-- EXTERNAL BORDERS -->
+    <line x1="0" y1="0" x2="350" y2="0" stroke="black" stroke-width="1" />
+    <line x1="0" y1="0" x2="0" y2="450" stroke="black" stroke-width="1" />
+    <line x1="0" y1="450" x2="350" y2="450" stroke="black" stroke-width="1" />
+    <line x1="350" y1="0" x2="350" y2="450" stroke="black" stroke-width="1" />
+
+    <!-- INTERNAL MARKS -->
+    <line x1="0" y1="30" x2="350" y2="30" stroke="black" stroke-width="1" />
+    <line x1="0" y1="120" x2="350" y2="120" stroke="black" stroke-width="1" />
+    <line x1="0" y1="210" x2="350" y2="210" stroke="black" stroke-width="1" />
+    <line x1="0" y1="390" x2="350" y2="390" stroke="black" stroke-width="1" />
+    <line x1="175" y1="0" x2="175" y2="450" stroke="black" stroke-width="1" />
+    <rect x="30" y="120" width="290" height="90" fill="coral" fill-opacity="0.3" />
+    <text x="175" y="160" text-anchor="middle" fill="black" font-family="sans-serif" font-size="20">EYES AREA</text>
+    <ellipse cx="175" cy="210" rx="117" ry="180" fill="none" stroke="black" stroke-width="1" />
+    <path d="M110,360 C100,400 30,410 0,415" fill="none" stroke="black" stroke-width="1" />
+    <path d="M240,360 C250,400 320,410 350,415" fill="none" stroke="black" stroke-width="1" />
+</svg>
