@@ -1,10 +1,10 @@
-Photo ID pattern
+Photo ID template
 ================
 
 [![Creative Commons Licence](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/")
 
 
-This repository contains an image pattern intended to help photographers to check whether or not a photography respects the dimensions for official documents.
+This repository contains an image template intended to help photographers to check whether or not a photography respects the dimensions for official documents.
 
 
 References

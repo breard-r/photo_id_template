@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="350" height="450">
-    <title>Photo ID pattern</title>
-    <desc>A photo ID pattern created bu Rodolphe BRÉARD. This work is licensed under a Creative Commons Attribution 4.0 International License.</desc>
+    <title>Photo ID template</title>
+    <desc>A photo ID template created bu Rodolphe BRÉARD. This work is licensed under a Creative Commons Attribution 4.0 International License.</desc>
 
     <!-- EXTERNAL BORDERS -->
     <line x1="0" y1="0" x2="350" y2="0" stroke="black" stroke-width="1" />
